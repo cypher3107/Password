@@ -82,7 +82,3 @@ You can find the library on `window.passw0rd`. A very simple POC is available at
 
 * Active Directory - [Checking for Breached Passwords in Active Directory](https://jacksonvd.com/checking-for-breached-passwords-ad-using-k-anonymity/)
 * 1Password - [Check your 1password exported passwords](https://github.com/eblin/1passpwnedcheck)
-
-## License
-
-MIT © [Dheeraj Joshi](https://djadmin.in)
